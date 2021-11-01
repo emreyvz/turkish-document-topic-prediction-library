@@ -28,8 +28,6 @@ Bu Python sınıfını kullanarak dahili dataset ile Türkçe dokümanların kon
 - Magazin
 - Askeri
 
-</br>
-
 # Turkish Document Topic Prediction Library | 🇬🇧
 
 You can get topic of given Turkish text content with couple lines of code by using this library. The library use a internal dataset that include 4000 different contents and around 1060500 words. Multinomial Naive Bayes Classifer were used in this library.
@@ -57,8 +55,6 @@ You can get topic of given Turkish text content with couple lines of code by usi
 - Economics
 - Magazine
 - Military
-
-</br>
 
 # Sample Codes / Örnek Kodlar
 ---
