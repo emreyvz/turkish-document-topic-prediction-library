@@ -56,7 +56,7 @@ You can get topic of given Turkish text content with couple lines of code by usi
 - Magazine
 - Military
 
-# Sample Codes / Örnek Kodlar
+# Sample Codes / Örnek Kodlar (🇬🇧 / 🇹🇷)
 ---
 ## Get prediction of given text content | Verilen dokümanın konusunu bulma
 
